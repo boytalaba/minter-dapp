@@ -1,4 +1,4 @@
-const contractAddress = "0xd374CD2e72cf24431b1dE724Be9c2d5a1C229f25"; //Replace with your own contract address
+const contractAddress = "0xF7F50d588e4F5f06daeCA651eB54623F2E5771F6"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Pixel Baby NFT!!";
